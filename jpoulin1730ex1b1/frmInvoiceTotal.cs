@@ -10,11 +10,22 @@ using System.Windows.Forms;
 
 namespace jpoulin1730ex1b
 {
-    public partial class Form1 : Form
+    public partial class frmInvoiceTotal : Form
     {
-        public Form1()
+        public frmInvoiceTotal()
         {
             InitializeComponent();
+        }
+
+        private void BtnCalculate_Click(object sender, EventArgs e)
+        {
+           
+
+        }
+
+        private void BtnExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
