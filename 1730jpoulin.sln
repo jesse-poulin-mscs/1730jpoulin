@@ -29,7 +29,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jpoulin2e1UnitTests", "jpou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jpoulin2f1", "jpoulin2f1\jpoulin2f1.csproj", "{AA7D63DD-E787-43F2-B121-E4910562D132}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jpoulin2f2UnitTests", "jpoulin2f2UnitTests\jpoulin2f2UnitTests.csproj", "{7286AAD8-F0E8-4B72-8C8B-5A6761CFD1D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jpoulin2f1UnitTests", "jpoulin2f2UnitTests\jpoulin2f1UnitTests.csproj", "{7286AAD8-F0E8-4B72-8C8B-5A6761CFD1D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jpoulin2g1", "jpoulin2g1\jpoulin2g1.csproj", "{6CC34D97-F8D5-4834-9C15-44662C601BF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jpoulin2g1UnitTests", "jpoulin2g2UnitTests\jpoulin2g1UnitTests.csproj", "{1D1B7D65-6DF0-42E0-8FA8-E589A3C7EA1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{7286AAD8-F0E8-4B72-8C8B-5A6761CFD1D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7286AAD8-F0E8-4B72-8C8B-5A6761CFD1D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7286AAD8-F0E8-4B72-8C8B-5A6761CFD1D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CC34D97-F8D5-4834-9C15-44662C601BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC34D97-F8D5-4834-9C15-44662C601BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC34D97-F8D5-4834-9C15-44662C601BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC34D97-F8D5-4834-9C15-44662C601BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D1B7D65-6DF0-42E0-8FA8-E589A3C7EA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1B7D65-6DF0-42E0-8FA8-E589A3C7EA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1B7D65-6DF0-42E0-8FA8-E589A3C7EA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1B7D65-6DF0-42E0-8FA8-E589A3C7EA1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
