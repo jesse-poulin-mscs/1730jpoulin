@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jpoulin2g1", "jpoulin2g1\jp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jpoulin2g1UnitTests", "jpoulin2g2UnitTests\jpoulin2g1UnitTests.csproj", "{1D1B7D65-6DF0-42E0-8FA8-E589A3C7EA1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jpoulin2h2", "jpoulin2h2\jpoulin2h2.csproj", "{9E14A21D-360E-492F-B0FA-126AEE51F428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jpoulin2h2.Tests", "jpoulin2h2.Tests\jpoulin2h2.Tests.csproj", "{9E852D4E-E3C4-4028-B448-194E3936A4F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{1D1B7D65-6DF0-42E0-8FA8-E589A3C7EA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D1B7D65-6DF0-42E0-8FA8-E589A3C7EA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D1B7D65-6DF0-42E0-8FA8-E589A3C7EA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E14A21D-360E-492F-B0FA-126AEE51F428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E14A21D-360E-492F-B0FA-126AEE51F428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E14A21D-360E-492F-B0FA-126AEE51F428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E14A21D-360E-492F-B0FA-126AEE51F428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E852D4E-E3C4-4028-B448-194E3936A4F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E852D4E-E3C4-4028-B448-194E3936A4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E852D4E-E3C4-4028-B448-194E3936A4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E852D4E-E3C4-4028-B448-194E3936A4F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
