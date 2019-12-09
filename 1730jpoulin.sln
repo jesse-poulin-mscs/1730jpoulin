@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jpoulin3a1", "jpoulin3a1\jp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jpoulin3a1UnitTests", "jpoulin3a1UnitTests\jpoulin3a1UnitTests.csproj", "{9FDC436B-DC50-4B89-9E98-76C58DE13EBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jpoulin3b1", "jpoulin3b1\jpoulin3b1.csproj", "{3CD28D08-E3FE-485E-83D0-970C30CBB647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jpoulin3b1UnitTests", "jpoulin3b1UnitTests\jpoulin3b1UnitTests.csproj", "{8109FBAA-1B2F-432B-83B7-883FB024404A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,14 @@ Global
 		{9FDC436B-DC50-4B89-9E98-76C58DE13EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FDC436B-DC50-4B89-9E98-76C58DE13EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FDC436B-DC50-4B89-9E98-76C58DE13EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CD28D08-E3FE-485E-83D0-970C30CBB647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD28D08-E3FE-485E-83D0-970C30CBB647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD28D08-E3FE-485E-83D0-970C30CBB647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD28D08-E3FE-485E-83D0-970C30CBB647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8109FBAA-1B2F-432B-83B7-883FB024404A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8109FBAA-1B2F-432B-83B7-883FB024404A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8109FBAA-1B2F-432B-83B7-883FB024404A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8109FBAA-1B2F-432B-83B7-883FB024404A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
